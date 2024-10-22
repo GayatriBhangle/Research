@@ -1,2 +1,2 @@
 # Research
-Implementation of optimizatio algorithms.
+Implementation of optimization algorithms.
